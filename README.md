@@ -7,6 +7,8 @@ Here are the files used in this challenge:
  * tweets.txt - contain sample tweets.
  * run.sh - executable script that runs both python codes.
  * words_tweeted.py and median_unique.py are the two python code created by me.
+ * Both words_tweeted.py and median_unique.py takes two arguments for input.
+ * You can put the output file in any directory you choose. I put my under the tweet_output directory.
 
 And here's run.sh example
 
@@ -79,5 +81,5 @@ scond code output - running median:
 11.00
 12.50
 14.00
-...
+```
 
