@@ -32,19 +32,7 @@ note: run.sh might not run in all system.
 ```javascript
 first code output - count the total number each unique word in tweets:
 
-# Directory tree
 
-README.md
-run.sh
-src
-  -- median_unique.py
-  -- words_tweeted.py
-tweet_input
-  -- tweets.txt
-tweet_output
-  -- ft1.txt
-  -- ft2.txt
- 
  tweets from:          1 to          3
 
 \#analytics                    	  1
@@ -92,3 +80,17 @@ scond code output - running median:
 12.50
 14.00
 ...
+
+# Directory tree
+
+README.md
+run.sh
+src
+  -- median_unique.py
+  -- words_tweeted.py
+tweet_input
+  -- tweets.txt
+tweet_output
+  -- ft1.txt
+  -- ft2.txt
+ 
