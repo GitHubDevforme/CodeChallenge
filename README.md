@@ -22,6 +22,7 @@ python ./src/median_unique.py ./tweet_input/tweets.txt ./tweet_output/ft2.txt
 ```
 # Directory tree
 
+```javascript
 README.md
 run.sh
 src
@@ -32,7 +33,7 @@ tweet_input
 tweet_output
   -- ft1.txt
   -- ft2.txt
- 
+... 
 
 # Tests
 
