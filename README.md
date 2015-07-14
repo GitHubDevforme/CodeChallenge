@@ -33,7 +33,7 @@ tweet_input
 tweet_output
   -- ft1.txt
   -- ft2.txt
-... 
+..... 
 
 # Tests
 
