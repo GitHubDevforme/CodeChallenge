@@ -20,6 +20,19 @@ And here's run.sh example
 python ./src/words_tweeted.py ./tweet_input/tweets.txt ./tweet_output/ft1.txt
 python ./src/median_unique.py ./tweet_input/tweets.txt ./tweet_output/ft2.txt
 ```
+# Directory tree
+
+README.md
+run.sh
+src
+  -- median_unique.py
+  -- words_tweeted.py
+tweet_input
+  -- tweets.txt
+tweet_output
+  -- ft1.txt
+  -- ft2.txt
+ 
 
 # Tests
 
@@ -81,16 +94,3 @@ scond code output - running median:
 14.00
 ...
 
-# Directory tree
-
-README.md
-run.sh
-src
-  -- median_unique.py
-  -- words_tweeted.py
-tweet_input
-  -- tweets.txt
-tweet_output
-  -- ft1.txt
-  -- ft2.txt
- 
